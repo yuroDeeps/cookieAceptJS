@@ -1,0 +1,8 @@
+body {
+    background-color: gray;
+}
+
+#cookieWindow {
+    background-color: white;
+    width: fit-content;
+}
